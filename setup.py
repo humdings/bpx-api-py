@@ -4,7 +4,7 @@ from os import path
 here = path.abspath(path.dirname(__file__))
 
 setup(
-    name='bpx',
+    name='bpx-api-py',
     version="1.0.2",
     description='Backpack Crypto API trading stuff.',
     url='https://github.com/humdings/bpx-api-py',
